@@ -1,3 +1,4 @@
 # toy_ds_project
 
-project creation date: Feb 12th, 2022
+- project creation date: Feb 12th, 2022
+- author: Jenny Lee
